@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/qds1d4W/github-banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Mr. Extremer 👋</h1>
+<h1 align="center">Hi, Myself Md. Rafiul Islam 👋</h1>
 <h3 align="center">MERN Stack Developer | Full-Stack Web Developer</h3>
 
 ---
