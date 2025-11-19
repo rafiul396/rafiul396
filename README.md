@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/qds1d4W/github-banner.png" alt="Banner" />
+  <img src="[https://i.ibb.co/qds1d4W/github-banner.png](https://ibb.co.com/d0k9wK00)" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, Myself Md. Rafiul Islam 👋</h1>
