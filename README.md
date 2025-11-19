@@ -26,6 +26,7 @@ I’m a dedicated MERN Stack developer focused on building scalable, high-perfor
 <p>
   <img src="https://skillicons.dev/icons?i=js" />
 </p>
+
 ### **Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
