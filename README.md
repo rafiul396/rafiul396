@@ -52,27 +52,9 @@ I’m a dedicated MERN Stack developer focused on building scalable, high-perfor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-</p>
-
----
-
 ## 🚀 Featured Projects
-- 💳 **FinEase** — Personal finance management web app  
-- 🏨 **Tourism Website** — Full-stack travel booking platform  
-- 📚 **Learning Hub** — MERN + Firebase authentication project
-
+- 💳 **FinEase** — Personal finance management web app
+  
 ---
 
 ⭐ **Feel free to explore my repositories and contribute!**
